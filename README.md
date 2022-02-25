@@ -1,10 +1,10 @@
 <div style="vertical-align:middle">
-  <img alt="welcome" height="60" width="100"  src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif">
+Olá Mundo!
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/carlosbaldim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlosbaldim&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbaldim&layout=compact&langs_count=7&theme=merko"/>
@@ -26,7 +26,7 @@
   <a href = "mailto:carlosbaldim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosbaldim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-  
+  <br>
   <div>
-      
+   <img alt="welcome" height="60" width="100"  src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif">     
    <div>
